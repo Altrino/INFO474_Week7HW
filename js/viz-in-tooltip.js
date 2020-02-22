@@ -15,7 +15,7 @@ const margin = {top: 50, right: 50, bottom: 50, left: 50}
 , width = 800 - margin.left - margin.right // Use the window's width 
 , height = 600 - margin.top - margin.bottom // Use the window's height
 
-const marginTooltip = {top: 100, right: 100, bottom: 100, left: 100}
+const marginTooltip = {top: 50, right: 50, bottom: 50, left: 100}
 , widthTooltip = 400 - margin.left - margin.right // Use the window's width 
 , heightTooltip = 300 - margin.top - margin.bottom // Use the window's height
 
